@@ -58,9 +58,11 @@ Profissional de **infraestrutura de TI** com experiência prática em ambiente c
 
 <div align="center">
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=flacolael&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=flacolael&layout=compact&theme=github_dark&hide_border=true&locale=pt-br)
+![Sequência](https://streak-stats.demolab.com?user=flacolael&theme=github-dark-blue&hide_border=true&locale=pt_BR)
 
+![Atividade](https://github-readme-activity-graph.vercel.app/graph?username=flacolael&theme=github-compact&hide_border=true)
+
+</div>
 </div>
 
 ## 🌎 Idiomas
